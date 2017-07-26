@@ -1,4 +1,8 @@
-var calculator = {};
+var calculator = {
+	multiply : function(amount1, amount2) {
+		return amount1 * amount2;
+	}
+};
 
 function multipleTest1() {
 	//TEST
